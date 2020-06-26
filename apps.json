@@ -1,7 +1,7 @@
 {
     "apps" : [
         {"name":"Bazarr","url":"crvsm.com/bazarr","icon":"message-video"},
-        {"name":"Booksonic","url":"crvsm.com/booksonic","icon":"airplane"},
+        {"name":"Booksonic","url":"crvsm.com/booksonic","icon":"book-music"},
         {"name":"Cockpit","url":"crvsm.com/cockpit","icon":"airplane"},
         {"name":"DSM A","url":"dsma.crvsm.com","icon":"airplane"},
         {"name":"DSM B","url":"dsmb.crvsm.com","icon":"airplane"},
