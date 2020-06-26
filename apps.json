@@ -2,12 +2,15 @@
     "apps" : [
         {"name":"Bazarr","url":"crvsm.com/bazarr","icon":"message-video"},
         {"name":"Booksonic","url":"crvsm.com/booksonic","icon":"book-music"},
-        {"name":"Cockpit","url":"crvsm.com/cockpit","icon":"airplane"},
         {"name":"DSM A","url":"dsma.crvsm.com","icon":"server-network"},
+        {"name":"DSM A File Station","url":"dsmb.crvsm.com/download","icon":"server-network"},        
+        {"name":"DSM A Download Station","url":"dsma.crvsm.com/file","icon":"file-multiple"},
         {"name":"DSM B","url":"dsmb.crvsm.com","icon":"server-network"},
+        {"name":"DSM B Download Station","url":"dsmb.crvsm.com/download","icon":"download"},
+        {"name":"DSM B File Station","url":"dsmb.crvsm.com/file","icon":"file-multiple"},
         {"name":"Edgerouter","url":"el.crvsm.local","icon":"router-network"},
         {"name":"ESXI","url":"vm-esxi-a.crvsm.local","icon":"server"},
-        {"name":"Filestash","url":"crvsm.com/filestash","icon":"package"},
+        {"name":"NZBHydra2","url":"crvsm.com/hydra2","icon":"download-network"},
         {"name":"NZBGet","url":"crvsm.com/nzbget","icon":"download"},
         {"name":"Ombi","url":"crvsm.com/request","icon":"file-find-outline"},
         {"name":"Plex","url":"plex.tv","icon":"plex"},
@@ -18,6 +21,5 @@
         {"name":"Sonarr Anime Archive","url":"crvsm.com/sonarr-anime-archive","icon":"television-box"},
         {"name":"Tautulli","url":"crvsm.com/tautulli","icon":"airplane"},
         {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"},
-        {"name":"Youtube-DL","url":"crvsm.com/youtube","icon":"youtube"}
     ]
 }
