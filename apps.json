@@ -20,6 +20,6 @@
         {"name":"Sonarr Anime","url":"crvsm.com/sonarr-anime","icon":"television-box"},
         {"name":"Sonarr Anime Archive","url":"crvsm.com/sonarr-anime-archive","icon":"television-box"},
         {"name":"Tautulli","url":"crvsm.com/tautulli","icon":"airplane"},
-        {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"},
+        {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"}
     ]
 }
