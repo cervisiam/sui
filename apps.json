@@ -1,7 +1,7 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"crvsm.com/bazarr","icon":"message-video"},
-        {"name":"Booksonic","url":"crvsm.com/booksonic","icon":"book-music"},
+        {"name":"Bazarr","url":"crvsm.com/bz","icon":"message-video"},
+        {"name":"Booksonic","url":"crvsm.com/bs","icon":"book-music"},
         {"name":"DSMA","url":"dsma.crvsm.com","icon":"server-network"},
         {"name":"DSMA-DL","url":"dsmb.crvsm.com/download","icon":"server-network"},        
         {"name":"DSMA-F","url":"dsma.crvsm.com/file","icon":"file-multiple"},
@@ -9,16 +9,16 @@
         {"name":"DSMB-F","url":"dsmb.crvsm.com/file","icon":"file-multiple"},
         {"name":"Edgerouter","url":"el.crvsm.local","icon":"router-network"},
         {"name":"ESXI","url":"vm-esxi-a.crvsm.local","icon":"server"},
-        {"name":"Jackett","url":"crvsm.com/jackett","icon":"download-network"},
+        {"name":"Jackett","url":"crvsm.com/jk","icon":"download-network"},
         {"name":"NZBGet","url":"crvsm.com/nzbget","icon":"download"},
-        {"name":"Ombi","url":"crvsm.com/request","icon":"file-find-outline"},
+        {"name":"Ombi","url":"crvsm.com/req","icon":"file-find-outline"},
         {"name":"Plex","url":"plex.tv","icon":"plex"},
-        {"name":"Radarr","url":"crvsm.com/radarr","icon":"filmstrip"},
-        {"name":"Radarr-A","url":"crvsm.com/radarr-archive","icon":"filmstrip"},
-        {"name":"Sonarr","url":"crvsm.com/sonarr","icon":"television-box"},
-        {"name":"Sonarr-A","url":"crvsm.com/sonarr-anime","icon":"television-box"},
-        {"name":"Sonarr-AA","url":"crvsm.com/sonarr-anime-archive","icon":"television-box"},
-        {"name":"Tautulli","url":"crvsm.com/tautulli","icon":"airplane"},
+        {"name":"Radarr","url":"crvsm.com/rd","icon":"filmstrip"},
+        {"name":"Radarr-A","url":"crvsm.com/rda","icon":"filmstrip"},
+        {"name":"Sonarr","url":"crvsm.com/sr","icon":"television-box"},
+        {"name":"Sonarr-A","url":"crvsm.com/sra","icon":"television-box"},
+        {"name":"Sonarr-AA","url":"crvsm.com/sraa","icon":"television-box"},
+        {"name":"Tautulli","url":"crvsm.com/tti","icon":"airplane"},
         {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"}
     ]
 }
