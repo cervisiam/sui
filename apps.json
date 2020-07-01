@@ -2,6 +2,7 @@
     "apps" : [
         {"name":"Bazarr","url":"crvsm.com/bz","icon":"message-video"},
         {"name":"Booksonic","url":"crvsm.com/bs","icon":"book-music"},
+        {"name":"Deluge","url":"crvsm.com/dlg","icon":"network"},
         {"name":"DSMA","url":"dsma.crvsm.com","icon":"server-network"},
         {"name":"DSMA-DL","url":"dsmb.crvsm.com/dl","icon":"server-network"},        
         {"name":"DSMA-FL","url":"dsma.crvsm.com/fl","icon":"file-multiple"},
