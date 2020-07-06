@@ -1,7 +1,6 @@
 {
     "apps" : [
         {"name":"Bazarr","url":"crvsm.com/bz","icon":"message-video"},
-        {"name":"Booksonic","url":"crvsm.com/bs","icon":"book-music"},
         {"name":"Deluge","url":"crvsm.com/dlg","icon":"network"},
         {"name":"DSMA","url":"dsma.crvsm.com","icon":"server-network"},
         {"name":"DSMA-DL","url":"dsmb.crvsm.com/dl","icon":"server-network"},        
@@ -12,8 +11,6 @@
         {"name":"ESXI","url":"vm-esxi-a.crvsm.local","icon":"server"},
         {"name":"Jackett","url":"crvsm.com/jk","icon":"download-network"},
         {"name":"NZBGet","url":"crvsm.com/nzbget","icon":"download"},
-        {"name":"Ombi","url":"crvsm.com/req","icon":"file-find-outline"},
-        {"name":"Plex","url":"plex.tv","icon":"plex"},
         {"name":"Radarr","url":"crvsm.com/rd","icon":"filmstrip"},
         {"name":"Radarr-A","url":"crvsm.com/rda","icon":"filmstrip"},
         {"name":"Sonarr","url":"crvsm.com/sr","icon":"television-box"},
