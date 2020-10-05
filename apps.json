@@ -10,11 +10,9 @@
         {"name":"Jackett","url":"crvsm.com/jk","icon":"download-network"},
         {"name":"pfSense","url":"pfs.crvsm.local","icon":"router-network"},
         {"name":"Radarr","url":"crvsm.com/rd","icon":"filmstrip"},
-        {"name":"Radarr-A","url":"crvsm.com/rda","icon":"filmstrip"},
         {"name":"Sabnzbd","url":"crvsm.com/sabnzbd","icon":"download"},
         {"name":"Sonarr","url":"crvsm.com/sr","icon":"television-box"},
         {"name":"Sonarr-A","url":"crvsm.com/sra","icon":"television-box"},
-        {"name":"Sonarr-AA","url":"crvsm.com/sraa","icon":"television-box"},
         {"name":"Tautulli","url":"crvsm.com/tti","icon":"airplane"},
         {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"}
     ]
