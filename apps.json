@@ -1,19 +1,20 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"crvsm.com/bz","icon":"message-video"},
-        {"name":"Deluge","url":"crvsm.com/dlg","icon":"network"},
-        {"name":"DSMA","url":"dsma.crvsm.com","icon":"server-network"},
-        {"name":"DSMA-DL","url":"dsmb.crvsm.com/dl","icon":"server-network"},        
-        {"name":"DSMA-FL","url":"dsma.crvsm.com/fl","icon":"file-multiple"},
-        {"name":"DSMB","url":"dsmb.crvsm.com","icon":"server-network"},
-        {"name":"DSMB-FL","url":"dsmb.crvsm.com/fl","icon":"file-multiple"},
-        {"name":"Jackett","url":"crvsm.com/jk","icon":"download-network"},
+        {"name":"Bazarr","url":"bz.crvsm.net","icon":"message-video"},
+        {"name":"Deluge","url":"dlg.crvsm.net","icon":"network"},
+        {"name":"DSMA","url":"dsma.crvsm.net","icon":"server-network"},
+        {"name":"DSMA-DL","url":"dsmb.crvsm.net/dl","icon":"server-network"},        
+        {"name":"DSMA-FL","url":"dsma.crvsm.net/fl","icon":"file-multiple"},
+        {"name":"DSMB","url":"dsmb.crvsm.net","icon":"server-network"},
+        {"name":"DSMB-FL","url":"dsmb.crvsm.net/fl","icon":"file-multiple"},
+        {"name":"Jackett","url":"jk.crvsm.net/","icon":"download-network"},
+        {"name":"NZBHydra","url":"hydra.crvsm.net/","icon":"filmstrip"},
         {"name":"pfSense","url":"pfs.crvsm.local","icon":"router-network"},
-        {"name":"Radarr","url":"crvsm.com/rd","icon":"filmstrip"},
-        {"name":"Sabnzbd","url":"crvsm.com/sabnzbd","icon":"download"},
-        {"name":"Sonarr","url":"crvsm.com/sr","icon":"television-box"},
-        {"name":"Sonarr-A","url":"crvsm.com/sra","icon":"television-box"},
-        {"name":"Tautulli","url":"crvsm.com/tti","icon":"airplane"},
+        {"name":"Radarr","url":"rd.crvsm.net","icon":"filmstrip"},
+        {"name":"Sabnzbd","url":"sab.crvsm.net","icon":"download"},
+        {"name":"Sonarr","url":"sr.crvsm.net","icon":"television-box"},
+        {"name":"Sonarr-A","url":"sra.crvsm.net","icon":"television-box"},
+        {"name":"Tautulli","url":"stats.crvsm.com","icon":"airplane"},
         {"name":"Unraid","url":"ps-unraid-a.crvsm.local","icon":"server"}
     ]
 }
