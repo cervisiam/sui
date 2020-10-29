@@ -9,7 +9,7 @@
         {"name":"DSMB-FL","url":"dsmb.crvsm.net/fl","icon":"file-multiple"},
         {"name":"Jackett","url":"jk.crvsm.net/","icon":"download-network"},
         {"name":"NZBHydra","url":"hydra.crvsm.net/","icon":"progress-download"},
-        {"name":"Ombi","url":"request.crvsm.net/","icon":"plus-box"},
+        {"name":"Ombi","url":"request.crvsm.com/","icon":"plus-box"},
         {"name":"pfSense","url":"pfs.crvsm.local","icon":"router-network"},
         {"name":"Radarr","url":"rd.crvsm.net","icon":"filmstrip"},
         {"name":"Sabnzbd","url":"sab.crvsm.net","icon":"download"},
